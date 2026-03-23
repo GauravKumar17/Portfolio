@@ -2,10 +2,10 @@ import { useReveal } from '../hooks/useReveal'
 
 // Put your CV PDF at: public/Gaurav_Kumar_general_cvn.pdf
 // It will be served as a static file automatically by Vite / any host
-const CV_FILE = '/GAURAV_KUMAR_general_cvn.pdf'
+const CV_FILE = 'https://drive.google.com/uc?export=download&id=18cMMThaNpA6NtXj6UbK0mk3DbD14DnOC'
 
 const HIGHLIGHTS = [
-  { icon: '🎓', label: 'Education',      val: 'B.Tech CSE · LPU · 8.15 CGPA' },
+  { icon: '🎓', label: 'Education',      val: 'B.Tech CSE · LPU · 8.34 CGPA' },
   { icon: '💻', label: 'Key Skills',     val: 'TypeScript · React · Node.js · PostgreSQL · React Native' },
   { icon: '🚀', label: 'Projects',       val: 'VAARTA · TrackExpense · BrainX' },
   { icon: '🏅', label: 'Certifications', val: 'NPTEL Cloud Computing · Udemy DS/ML Bootcamp' },
