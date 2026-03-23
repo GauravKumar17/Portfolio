@@ -2,7 +2,7 @@ import { useReveal } from '../hooks/useReveal'
 
 // Put your CV PDF at: public/Gaurav_Kumar_general_cvn.pdf
 // It will be served as a static file automatically by Vite / any host
-const CV_FILE = '/Gaurav_Kumar_general_cvn.pdf'
+const CV_FILE = '/GAURAV_KUMAR_general_cvn.pdf'
 
 const HIGHLIGHTS = [
   { icon: '🎓', label: 'Education',      val: 'B.Tech CSE · LPU · 8.15 CGPA' },
